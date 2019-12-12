@@ -1,0 +1,124 @@
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics (ID=0xa06)
+    Vendor:   Intel
+    VRAM:     1112 MB
+    Driver:   20.19.15.5063
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\vladv\Desktop\Vletsas.v.0.2\Тест111_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\vladv\Desktop\Vletsas.v.0.2\Тест111_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\vladv\Desktop\Vletsas.v.0.2\Тест111_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\vladv\Desktop\Vletsas.v.0.2\Тест111_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\vladv\Desktop\Vletsas.v.0.2\Тест111_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\vladv\Desktop\Vletsas.v.0.2\Тест111_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\vladv\Desktop\Vletsas.v.0.2\Тест111_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\vladv\Desktop\Vletsas.v.0.2\Тест111_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.051 seconds
+Platform assembly: C:\Users\vladv\Desktop\Vletsas.v.0.2\Тест111_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\vladv\Desktop\Vletsas.v.0.2\Тест111_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Button (2)') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Button (3)') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Button (1)') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Button (4)') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Panel') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Panel') is missing!
+ 
+(Filename:  Line: 1744)
+
+UnloadTime: 8.769600 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.021900 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 418.
+Total: 7.666800 ms (FindLiveObjects: 0.054200 ms CreateObjectMapping: 0.031100 ms MarkObjects: 0.832900 ms  DeleteObjects: 6.746800 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException: Object reference not set to an instance of an object
+  at AllConect.b_EnterLetter () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent.Invoke () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.Press () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute (IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerClickHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32)
+UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent()
+UnityEngine.EventSystems.StandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 1.747600 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 4.179500 ms (FindLiveObjects: 0.042300 ms CreateObjectMapping: 0.021400 ms MarkObjects: 0.255100 ms  DeleteObjects: 3.858900 ms)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Button (2)') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Button (3)') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Button (1)') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Button (4)') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Panel') is missing!
+ 
+(Filename:  Line: 1744)
+
+The referenced script on this Behaviour (Game Object 'Panel') is missing!
+ 
+(Filename:  Line: 1744)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.473400 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 2.325600 ms (FindLiveObjects: 0.045300 ms CreateObjectMapping: 0.041800 ms MarkObjects: 2.210300 ms  DeleteObjects: 0.026900 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 8cbc -> priority: 1 

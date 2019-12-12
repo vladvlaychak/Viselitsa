@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d77672d703f692646bb2a3a9e1bf4bf6
+timeCreated: 1573378156
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vaca Cyrillic
+  fontNames:
+  - Vaca Cyrillic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b32fcb596fa577e4a829a6e425fec54c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
